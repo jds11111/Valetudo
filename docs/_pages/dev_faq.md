@@ -87,7 +87,7 @@ if an uploaded artifact might become relevant later. There are simply not enough
 
 
 Furthermore, since vacuum robots cannot climb stairs, the whole multi-floor experience is just objectively inferior
-as you loose the ability to do all the fancy automation stuff with robots starting to clean a room as soon as everyone has left etc.
+as you lose the ability to do all the fancy automation stuff with robots starting to clean a room as soon as everyone has left etc.
 
 
 And lastly, as of now (2021-10-23), you can get a factory-new robot supported by Valetudo for less than 150€.<br/>
