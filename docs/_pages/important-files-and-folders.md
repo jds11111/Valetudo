@@ -32,10 +32,11 @@ various map data
 `mnt/data/rockrobo/PersistData` virtual zones and walls?
 
 `mnt/data/rockrobo/ChargerPos.data`
+
 `mnt/data/rockrobo/StartPos.data` named positions
 
 ***
 
-To backup copy the files from the robot to a safe place. (lab.cfg can be easily set, see FAQ)
+To backup copy the files from the robot to a safe place. (lab.cfg can be easily set)
 
 To restore just copy the files over to the robot and reboot valetudo.
